@@ -1,7 +1,7 @@
 // alert(3+3) // if i use nodejs then code is not exicute. if i run on browser then code is run
 
 let name = "Rohit"  // string
-let age = 18  // integer
+let age = 18  // integer/number
 let isLoggedIn = false // boolean
 let state ; // undefined
 //null stand alone value
