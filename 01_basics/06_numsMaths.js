@@ -26,3 +26,5 @@ console.log(Maths.floor(4.9)); 4
 console.log(Maths.min(4, 3, 2, 6));
 console.log(Maths.max(4, 3, 2, 6));
 
+
+
